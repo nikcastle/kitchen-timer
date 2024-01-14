@@ -1,6 +1,6 @@
 {
-	"name": "is-it-autumn",
-	"homepage": "https://nikcastle.github.io/is-it-fall/",
+	"name": "kitchen-timer",
+	"homepage": "https://nikcastle.github.io/kitchen-timer/",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {

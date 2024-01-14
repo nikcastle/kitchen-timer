@@ -1,6 +1,6 @@
 let seconds;
 
-const countdown = () => {
+export const countdown = (counter) => {
 	const time = document.getElementById('time');
 	const timer = setInterval(timer, 1000);
 
